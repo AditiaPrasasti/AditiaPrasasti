@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi! I am a student at **Universitas Muhammadiyah Riau**, currently diving deep into **Fullstack Development**. I'm focusing on building dynamic web applications using **Vue.js** for the frontend and **Express.js** for the backend.<br><br>🌱 As a developer, I'm constantly exploring new technologies and best practices in web development, with a strong passion for creating seamless user experiences.<br><br>⚡ Fun fact: I enjoy coding challenges and collaborating on projects with friends — it helps me learn faster and have fun while doing it!
+👋 Hi! I am **Aditia Prasasti**, a student at **Universitas Muhammadiyah Riau**.<br> 
+I am a front-end developer currently learning **Vue.js** and **Express.js**.<br><br>🌱 As a developer, I'm constantly exploring new technologies and best practices in web development, with a strong passion for creating seamless user experiences.<br><br>⚡ Fun fact: I enjoy coding challenges and collaborating on projects with friends — it helps me learn faster and have fun while doing it!
 
 
 ## 🌐 Socials:
